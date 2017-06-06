@@ -3,4 +3,9 @@
 def print_world():
 	
 	print 'Hello world'
+	
+	x = 4
+	if x % 2 == 0:
+		print 'x is even'
+	return None
 
